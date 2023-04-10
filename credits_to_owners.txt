@@ -1,0 +1,7 @@
+creds:
+op bookmarks- https://github.com/username-pass/bookmarklets
+chrome extension remover- https://github.com/FogNetwork/Ingot
+edpuzzle answers- https://github.com/ading2210/edpuzzle-answers/blob/main/bookmarklet.js
+blooket cheats- https://github.com/Minesraft2/Blooket-Cheats
+Inspect element found on stackoverflow
+essay writer and re word-er- openai & editpad
